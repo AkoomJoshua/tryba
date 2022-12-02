@@ -1,2 +1,1 @@
-# tryba
-banking website
+# tryba is a banking website,
